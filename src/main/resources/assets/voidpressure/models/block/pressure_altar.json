@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "voidpressure:block/pressure_altar_bottom",
+    "up": "voidpressure:block/pressure_altar_top",
+    "north": "voidpressure:block/pressure_altar_front",
+    "south": "voidpressure:block/pressure_altar_side",
+    "east": "voidpressure:block/pressure_altar_side",
+    "west": "voidpressure:block/pressure_altar_side",
+    "particle": "voidpressure:block/pressure_altar_side"
+  }
+}

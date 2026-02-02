@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GEG",
+    "ERE",
+    "GEG"
+  ],
+  "key": {
+    "G": { "item": "minecraft:glowstone" },
+    "E": { "item": "minecraft:ender_pearl" },
+    "R": { "item": "minecraft:redstone_block" }
+  },
+  "result": {
+    "id": "voidpressure:pressure_altar",
+    "count": 1
+  }
+}

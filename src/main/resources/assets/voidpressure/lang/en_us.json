@@ -1,0 +1,11 @@
+{
+  "itemGroup.voidpressure": "Void Pressure",
+  "voidpressure.configuration.title": "Void Pressure Configs",
+  "voidpressure.configuration.section.voidpressure.common.toml": "Void Pressure Configs",
+  "voidpressure.configuration.section.voidpressure.common.toml.title": "Void Pressure Configs",
+  "voidpressure.configuration.items": "Item List",
+  "key.categories.voidpressure": "Void Pressure",
+  "key.voidpressure.open_menu": "Open Void Pressure Menu",
+  "block.voidpressure.pressure_altar": "Pressure Altar",
+  "tooltip.voidpressure.pressure_altar": "Consumes offerings"
+}

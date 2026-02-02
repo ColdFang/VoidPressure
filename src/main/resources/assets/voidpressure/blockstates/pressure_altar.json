@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "voidpressure:block/pressure_altar"
+    }
+  }
+}
